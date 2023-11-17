@@ -1,6 +1,6 @@
 # P Core E Core のチェックプログラム
 
-Intel 12世代以降のP Core、E Coreの個数をチェックするサンプルコード~
+Intel 12世代以降のP Core、E Coreの個数をチェックするサンプルコード<br>
 Intel Core i5 13500でコーディングして、開発しています
 
 ```bash
